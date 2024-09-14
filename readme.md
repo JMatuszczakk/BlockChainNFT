@@ -48,3 +48,13 @@ This part of the project generates secure API keys for Pinata, a tool commonly u
 
 ---
 
+
+
+## Code, Customization, and Usage
+
+If you're interested in accessing the full code, customizing it for your project, or need help with integration, don't hesitate to reach out! I offer support for usage, modification, and any other blockchain development needs.
+
+Feel free to contact me at **jakub@matuszczak.org** for more details, customization services or any other coding services.
+
+
+
