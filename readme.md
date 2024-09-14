@@ -1,15 +1,4 @@
-A project that focuses on blockchain interactions on multiple networks. It features:
-- ERC721 solidity contract to which has been added modifications allowing it for use on opensea
-- a multi-network code for synchronus interactions with abovementioned contracts
-- a IPFS (decentralized server for file storage) interaction code
-- piniata IPFS key generator
 
-
-//on left a short description of the erc721 contract, on right a screenshot of the code
-//below on right a short description of the interaction code, on left the screenoshot of the interaction code
-// so on for rest of the projectHere's a simple structure for the `README.md` file that aligns with the requirements you provided:
-
----
 
 # Blockchain Multi-Network Interaction Project
 
@@ -27,9 +16,8 @@ This project demonstrates interactions with blockchain networks and supports mul
 
 This Solidity contract follows the ERC721 standard and includes custom modifications for compatibility with OpenSea.
 
-![ERC721 Solidity Contract](./screenshots/erc721_screenshot.png)
+![ERC721 Solidity Contract](https://i.imgur.com/MKsUwqv.png)
 
-On the left, you can see the code and on the right, there is a brief description of how the contract works and the modifications made for OpenSea integration.
 
 ---
 
@@ -37,9 +25,8 @@ On the left, you can see the code and on the right, there is a brief description
 
 The multi-network interaction code ensures synchronous communication across various blockchain networks.
 
-![Multi-Network Interaction Code](./screenshots/multinetwork_screenshot.png)
+![Multi-Network Interaction Code](https://i.imgur.com/rxleou2.png)
 
-On the right, the explanation highlights the logic and structure of the multi-network communication system.
 
 ---
 
@@ -47,9 +34,8 @@ On the right, the explanation highlights the logic and structure of the multi-ne
 
 This code enables easy interactions with the InterPlanetary File System (IPFS), allowing for decentralized file storage.
 
-![IPFS Interaction Code](./screenshots/ipfs_screenshot.png)
+![IPFS Interaction Code](https://i.imgur.com/xvl9apv.png)
 
-On the left, the code demonstrates the IPFS logic. The right side contains a short description of how it works and its use cases.
 
 ---
 
@@ -57,9 +43,8 @@ On the left, the code demonstrates the IPFS logic. The right side contains a sho
 
 This part of the project generates secure API keys for Pinata, a tool commonly used with IPFS for secure and decentralized storage.
 
-![Pinata Key Generator](./screenshots/pinata_keygen_screenshot.png)
+![Pinata Key Generator](https://i.imgur.com/IbPPcUx.png)
 
-On the left, a screenshot of the code, while the right panel provides a brief description of how the key generator works and its implementation.
 
 ---
 
